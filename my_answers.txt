@@ -1,1 +1,5 @@
-Anwers and such for the week 3 tutorial
+Answers and such for the week 3 tutorial
+
+Now with other useful info
+like empty lines.
+..
