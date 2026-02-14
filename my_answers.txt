@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 Answers and such for the week 3 tutorial
 
 Now with other useful info
 like empty lines.
 ..
+=======
+Anwers and such for the week 3 tutorial
+
+Adding a few lines with very improtant info
+Like the fact that 500 ml is 0.5 liters
+>>>>>>> 0b4b5c3b41d58724dc02d8dfe74a1ea783c27300
