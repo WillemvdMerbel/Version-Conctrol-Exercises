@@ -1,0 +1,6 @@
+Superimportant notes
+are often 
+typed more logically and structured than these
+However some text is needed to practice these GIT workflow things.
+
+!!!!
